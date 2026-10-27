@@ -1,0 +1,20 @@
+:root {
+  --bg: #0B1120;
+  --bg-sidebar: #0E1729;
+  --surface: #121D30;
+  --surface-raised: #18253A;
+  --border: #26354A;
+  --text: #EDF3FC;
+  --text-muted: #91A1B8;
+  --accent: #42D6E8;
+  --actual: #63D7A6;
+  --forecast: #68A9FF;
+  --warn: #F4BD63;
+  --error: #F47777;
+  --radius-sm: 6px;
+  --radius: 10px;
+  --gap: 16px;
+  --sidebar-w: 232px;
+  --font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: dark;
+}
